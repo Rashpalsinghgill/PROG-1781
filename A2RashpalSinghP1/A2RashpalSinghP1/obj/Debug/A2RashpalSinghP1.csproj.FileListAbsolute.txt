@@ -1,0 +1,7 @@
+E:\maths\A2RashpalSinghP1\A2RashpalSinghP1\obj\Debug\A2RashpalSinghP1.csprojAssemblyReference.cache
+E:\maths\A2RashpalSinghP1\A2RashpalSinghP1\obj\Debug\A2RashpalSinghP1.csproj.CoreCompileInputs.cache
+E:\maths\A2RashpalSinghP1\A2RashpalSinghP1\bin\Debug\A2RashpalSinghP1.exe.config
+E:\maths\A2RashpalSinghP1\A2RashpalSinghP1\bin\Debug\A2RashpalSinghP1.exe
+E:\maths\A2RashpalSinghP1\A2RashpalSinghP1\bin\Debug\A2RashpalSinghP1.pdb
+E:\maths\A2RashpalSinghP1\A2RashpalSinghP1\obj\Debug\A2RashpalSinghP1.exe
+E:\maths\A2RashpalSinghP1\A2RashpalSinghP1\obj\Debug\A2RashpalSinghP1.pdb
